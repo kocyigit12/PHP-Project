@@ -170,8 +170,8 @@ CREATE TABLE `user_info` (
 --
 
 INSERT INTO `user_info` (`user_id`, `first_name`, `last_name`, `email`, `password`, `mobile`, `address1`, `address2`) VALUES
-(8, 'Satyam', 'Kumar', 'psli1msli2@gmail.com', '56939820a4b4a094511923349314ac79', '5346373719', 'at?fbey mah', 'mercanlar st no 16'),
-(9, 'Abdul', 'Raj', 'yigitk016@gmail.com', '4297f44b13955235245b2497399d7a93', '5326373715', 'izmir/gaziemir/at?fbey mah./', '62. sokak / mercanlar sitesi no 16 kat 1 daire 2');
+(8, 'Satyam', 'Kumar', 'satyam12kumar@gmail.com', '56939820a4b4a094511923349314ac79', '5346373719', 'izmir', 'balçova'),
+(9, 'Abdul', 'Raj', 'abdulraj12@gmail.com', '4297f44b13955235245b2497399d7a93', '5326393715', 'izmir/buca', '');
 
 --
 -- Indexes for dumped tables
